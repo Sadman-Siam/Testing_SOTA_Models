@@ -1,0 +1,16 @@
+                                  precision    recall  f1-score   support
+
+Central Serous Chorioretinopathy       0.67      0.74      0.70       555
+            Diabetic Retinopathy       0.79      0.78      0.79       425
+                      Disc Edema       0.90      0.83      0.86       369
+                        Glaucoma       0.50      0.59      0.54       372
+                         Healthy       0.60      0.60      0.60       404
+                    Macular Scar       0.53      0.44      0.48       377
+                          Myopia       0.73      0.73      0.73       423
+                       Pterygium       1.00      1.00      1.00       385
+              Retinal Detachment       0.90      0.81      0.85       294
+            Retinitis Pigmentosa       0.86      0.87      0.87       413
+
+                        accuracy                           0.74      4017
+                       macro avg       0.75      0.74      0.74      4017
+                    weighted avg       0.74      0.74      0.74      4017
